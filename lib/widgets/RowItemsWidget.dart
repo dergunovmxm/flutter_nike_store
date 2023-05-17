@@ -32,7 +32,7 @@ class RowItemsWidget extends StatelessWidget {
                   children: [
                     Container(
                       margin: EdgeInsets.only(top: 20, right: 70),
-                      height: 120,
+                      height: 110,
                       width: 120,
                       decoration: BoxDecoration(
                           color: Color(0xFF475269),

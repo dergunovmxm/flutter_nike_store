@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_nike_store/widgets/AllItemsWidget.dart';
 import 'package:flutter_nike_store/widgets/CustomAppBar.dart';
 import 'package:flutter_nike_store/widgets/RowItemsWidget.dart';
 import 'package:flutter_nike_store/widgets/Search.dart';
@@ -19,6 +20,8 @@ class HomePage extends StatelessWidget {
               Search(),
               SizedBox(height: 30),
               RowItemsWidget(),
+              SizedBox(height: 20),
+              AllItemsWidget(),
             ],
           ),
         ),

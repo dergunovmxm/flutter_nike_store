@@ -145,7 +145,7 @@ class ItemPage extends StatelessWidget {
                     ),
                     SizedBox(height: 20),
                     Text(
-                      "A simple yet fully customizable ratingbar for flutter which also include a rating bar indicator, supporting any fraction of rating.",
+                      "A simple yet fully customizable ratingbar for flutter which also include a rating bar indicator, supporting any fraction of rating. ",
                       style: TextStyle(color: Color(0xFF475269), fontSize: 17),
                       textAlign: TextAlign.justify,
                     ),
